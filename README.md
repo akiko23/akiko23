@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - 👋 Hi, I’m @akiko23
 - 🤓 Skills: Python-3.x; Django/Flask; Aiogram lib; bash/shell; html/css/js; 
 - 📚 I’m interested in algoritms and data structures
