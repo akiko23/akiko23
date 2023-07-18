@@ -3,7 +3,7 @@
 - 🤓 Skills: Python-3.x; Django/Flask; Aiogram lib; bash/shell; html/css/js; 
 - 📚 I’m interested in algoritms and data structures
 - 💞️ I’m looking to collaborate on the development of a new journal app for Sirius college
-- 📫 You can reach om my email: dmvasilenko43@gmail.com (43 is my age)
+- 📫 You can contact me by email: dmvasilenko43@gmail.com
 -->
 
 
