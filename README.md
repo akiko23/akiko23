@@ -10,9 +10,9 @@
 ### Leetcode Stats
 [![Akiko's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=akiko23)](https://github.com/KnlnKS/leetcode-stats)
 
-### Github stats
-![Akiko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akiko23&show_icons=true)
-
 ### Streak & langs
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akiko23)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akiko23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Github stats
+![Akiko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akiko23&show_icons=true)
