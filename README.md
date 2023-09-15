@@ -8,7 +8,7 @@
 
 
 ### Leetcode Stats
-[![akiko's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=usksoaoko&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![My LeetCode stats](https://leetcode-stats-six.vercel.app/?username=akiko23)](https://github.com/KnlnKS/leetcode-stats)
 
 ### Github trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
