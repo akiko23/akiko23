@@ -8,10 +8,10 @@
 
 
 ### Leetcode Stats
-[![My LeetCode stats](https://leetcode-stats-six.vercel.app/?username=akiko23)](https://github.com/KnlnKS/leetcode-stats)
+[![Akiko's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=akiko23)](https://github.com/KnlnKS/leetcode-stats)
 
-### Github trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+### Github stats
+![Akiko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akiko23&show_icons=true)
 
 ### Streak & langs
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akiko23)](https://git.io/streak-stats)
