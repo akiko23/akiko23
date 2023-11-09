@@ -1,6 +1,6 @@
 # My bio
 - 👋 Hi, I’m @akiko23
-- 🤓 Skills: Python-3.x; Django/Flask/FastAPI; aiogram3.x; bash/shell; html/css/js; PostgreSQL; redis
+- 🤓 Skills: Python-3.x; Go (lang); PostgreSQL; Django/Flask/FastAPI; aiogram3.x; bash/shell; html/css/js
 - 📚 I’m interested in algoritms and data structures
 - 💞️ I’m looking to collaborate on the development of a new journal app for Sirius college
 - 📫 You can contact me by email: dmvasilenko43@gmail.com
