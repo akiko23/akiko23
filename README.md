@@ -1,14 +1,12 @@
 # My bio
 - 👋 Hi, I’m @akiko23
 - 🤓 Skills: Python-3.x; Go (lang); PostgreSQL; Django/Flask/FastAPI; aiogram3.x; bash/shell; html/css/js
-- 📚 I’m interested in algoritms and data structures
-- 💞️ I’m looking to collaborate on the development of a new journal app for Sirius college
-- 📫 You can contact me by email: dmvasilenko43@gmail.com
--->
+- 📚 I’m interested in ML & Higher math
+- 📫 You can contact me via <a href='https://t.me/akiko233' target='_blank'>telegram</a> or \<a href='dmvasilenko43@gmail.com' target='_blank'>email</a>
 
 
 ### Leetcode Stats
-[![Akiko's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=akiko23)](https://github.com/KnlnKS/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/akiko23)
 
 ### Streak & langs
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akiko23)](https://git.io/streak-stats)
