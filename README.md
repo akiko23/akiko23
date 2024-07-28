@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @akiko23
 - 🤓 Skills: Python-3.x; Go (lang); PostgreSQL; Django/Flask/FastAPI; aiogram3.x; bash/shell; html/css/js
 - 📚 I’m interested in ML & Higher math
-- 📫 You can contact me via <a href='https://t.me/akiko233' target='_blank'>✈️Telegram</a> or <a href='mailto: dmvasilenko43@gmail.com' target='_blank'>✉️Email</a>
+- 📫 You can contact me via <a href='https://t.me/akiko233' target='_blank'>✈️Telegram</a>
 
 
 ### Leetcode Stats
